@@ -1,4 +1,4 @@
 # Demo
 It is my first git repository.
 <br>
-Author- Mohammad Sibtain Raza
+Author- Mohammad Sibtain Raza (NITP)
